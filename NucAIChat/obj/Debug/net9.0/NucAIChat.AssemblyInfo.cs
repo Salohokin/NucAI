@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NucAIChat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de88018a306d0b3fc6b33174804753707ea83035")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf66a075f44ceb356240a044f64efd6cb4b823b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("NucAIChat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NucAIChat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
