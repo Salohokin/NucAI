@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\NucAIChat.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\NucAIChat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\NucAIChat.csproj",
+        "projectName": "NucAIChat",
+        "projectPath": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\NucAIChat.csproj",
+        "packagesPath": "C:\\Users\\jfox1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jfox1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "GeminiDotnet": {
+              "target": "Package",
+              "version": "[0.14.1, )"
+            },
+            "GeminiDotnet.Extensions.AI": {
+              "target": "Package",
+              "version": "[0.14.1, )"
+            },
+            "Markdig": {
+              "target": "Package",
+              "version": "[0.41.3, )"
+            },
+            "Microsoft.Extensions.AI": {
+              "target": "Package",
+              "version": "[9.7.1, )"
+            },
+            "Microsoft.Extensions.AI.Abstractions": {
+              "target": "Package",
+              "version": "[9.7.1, )"
+            },
+            "System.ClientModel": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

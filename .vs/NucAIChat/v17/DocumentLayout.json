@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|c:\\users\\jfox1\\source\\repos\\nucaichat\\nucaichat\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|solutionrelative:nucaichat\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|c:\\users\\jfox1\\source\\repos\\nucaichat\\nucaichat\\components\\pages\\chattykathy.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|solutionrelative:nucaichat\\components\\pages\\chattykathy.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|c:\\users\\jfox1\\source\\repos\\nucaichat\\nucaichat\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|solutionrelative:nucaichat\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|c:\\users\\jfox1\\source\\repos\\nucaichat\\nucaichat\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|solutionrelative:nucaichat\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|c:\\users\\jfox1\\source\\repos\\nucaichat\\nucaichat\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|solutionrelative:nucaichat\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|c:\\users\\jfox1\\source\\repos\\nucaichat\\nucaichat\\components\\pages\\chattykathy.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|solutionrelative:nucaichat\\components\\pages\\chattykathy.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|c:\\users\\jfox1\\source\\repos\\nucaichat\\nucaichat\\models\\chatmessagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|solutionrelative:nucaichat\\models\\chatmessagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|c:\\users\\jfox1\\source\\repos\\nucaichat\\nucaichat\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|solutionrelative:nucaichat\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|c:\\users\\jfox1\\source\\repos\\nucaichat\\nucaichat\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|solutionrelative:nucaichat\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|c:\\users\\jfox1\\source\\repos\\nucaichat\\nucaichat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|solutionrelative:nucaichat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|c:\\users\\jfox1\\source\\repos\\nucaichat\\nucaichat\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|solutionrelative:nucaichat\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|c:\\users\\jfox1\\source\\repos\\nucaichat\\nucaichat\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|solutionrelative:nucaichat\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|c:\\users\\jfox1\\source\\repos\\nucaichat\\nucaichat\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|solutionrelative:nucaichat\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|c:\\users\\jfox1\\source\\repos\\nucaichat\\nucaichat\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|solutionrelative:nucaichat\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|c:\\users\\jfox1\\source\\repos\\nucaichat\\nucaichat\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|solutionrelative:nucaichat\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|c:\\users\\jfox1\\source\\repos\\nucaichat\\nucaichat\\nucaichat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|solutionrelative:nucaichat\\nucaichat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|c:\\users\\jfox1\\source\\repos\\nucaichat\\nucaichat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F418150D-FA00-4CC0-9908-F24B2F098219}|NucAIChat\\NucAIChat.csproj|solutionrelative:nucaichat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "NucAIChat\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "NucAIChat\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T10:52:30.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "NucAIChat\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "NucAIChat\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T10:49:26.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "NucAIChat\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "NucAIChat\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T10:49:19.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChattyKathy.razor.css",
+              "DocumentMoniker": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\Pages\\ChattyKathy.razor.css",
+              "RelativeDocumentMoniker": "NucAIChat\\Components\\Pages\\ChattyKathy.razor.css",
+              "ToolTip": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\Pages\\ChattyKathy.razor.css",
+              "RelativeToolTip": "NucAIChat\\Components\\Pages\\ChattyKathy.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-27T18:35:55.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\App.razor",
+              "RelativeDocumentMoniker": "NucAIChat\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\App.razor",
+              "RelativeToolTip": "NucAIChat\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T15:01:19.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChattyKathy.razor",
+              "DocumentMoniker": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\Pages\\ChattyKathy.razor",
+              "RelativeDocumentMoniker": "NucAIChat\\Components\\Pages\\ChattyKathy.razor",
+              "ToolTip": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\Pages\\ChattyKathy.razor",
+              "RelativeToolTip": "NucAIChat\\Components\\Pages\\ChattyKathy.razor",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAAAIYBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T14:23:06.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "NucAIChat\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "NucAIChat\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T14:12:18.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatMessageModel.cs",
+              "DocumentMoniker": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Models\\ChatMessageModel.cs",
+              "RelativeDocumentMoniker": "NucAIChat\\Models\\ChatMessageModel.cs",
+              "ToolTip": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Models\\ChatMessageModel.cs",
+              "RelativeToolTip": "NucAIChat\\Models\\ChatMessageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T09:36:13.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "NucAIChat\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "NucAIChat\\Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-26T09:28:50.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NucAIChat.csproj",
+              "DocumentMoniker": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\NucAIChat.csproj",
+              "RelativeDocumentMoniker": "NucAIChat\\NucAIChat.csproj",
+              "ToolTip": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\NucAIChat.csproj",
+              "RelativeToolTip": "NucAIChat\\NucAIChat.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-26T07:10:51.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "NucAIChat\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "NucAIChat\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T18:55:52.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\appsettings.json",
+              "RelativeDocumentMoniker": "NucAIChat\\appsettings.json",
+              "ToolTip": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\appsettings.json",
+              "RelativeToolTip": "NucAIChat\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-26T08:33:29.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Program.cs",
+              "RelativeDocumentMoniker": "NucAIChat\\Program.cs",
+              "ToolTip": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Program.cs",
+              "RelativeToolTip": "NucAIChat\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:23:29.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "NucAIChat\\Components\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "NucAIChat\\Components\\Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-26T09:30:06.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NucAIChat\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\appsettings.Development.json",
+              "RelativeToolTip": "NucAIChat\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-26T14:05:37.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NucAIChat\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NucAIChat\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-26T14:04:58.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "NucAIChat\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\jfox1\\source\\repos\\NucAIChat\\NucAIChat\\wwwroot\\app.css",
+              "RelativeToolTip": "NucAIChat\\wwwroot\\app.css",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-26T14:58:14.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
